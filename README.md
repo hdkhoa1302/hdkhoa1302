@@ -5,7 +5,7 @@
 - Email: [hdkhoa1302@gmail.com](mailto:hdkhoa1302@gmail.com)
 - Software engineer | DevOps
 
-## Today's Weather Forecast in My Hometown
+## Today's Weather Forecast in My City
 
 
 
@@ -42,6 +42,6 @@ Partly cloudy
 
 <div align="right">
 
-*Updated at: 2023-09-12T23:58:54Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-13T01:39:29Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
