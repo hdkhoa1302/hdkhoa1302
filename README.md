@@ -11,9 +11,9 @@
 
 `My Tho, Vietnam - 13/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Partly cloudy
+Patchy rain possible
 
 
 <table>
@@ -42,6 +42,6 @@ Partly cloudy
 
 <div align="right">
 
-*Updated at: 2023-09-13T13:06:38Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-13T13:58:48Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
