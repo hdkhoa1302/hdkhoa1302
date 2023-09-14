@@ -11,9 +11,9 @@
 
 `My Tho, Vietnam - 15/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Overcast
+Moderate rain
 
 
 <table>
@@ -42,6 +42,6 @@ Overcast
 
 <div align="right">
 
-*Updated at: 2023-09-14T18:59:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-14T19:58:42Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
