@@ -11,9 +11,9 @@
 
 `My Tho, Vietnam - 28/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Heavy rain
+Patchy rain possible
 
 
 <table>
@@ -42,6 +42,6 @@ Heavy rain
 
 <div align="right">
 
-*Updated at: 2023-09-27T19:58:51Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-27T20:59:00Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
