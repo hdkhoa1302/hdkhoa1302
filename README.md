@@ -35,13 +35,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td>
+        <td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-24T06:59:10Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-24T07:58:58Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
